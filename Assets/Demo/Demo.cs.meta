@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 062ca868fc83b0d45ae8835be343c2b7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - audioSource: {instanceID: 0}
+  - clipSuccess: {instanceID: 0}
+  - clipError: {instanceID: 0}
+  - clipCountdown: {instanceID: 0}
+  - uiCatchArea: {instanceID: 0}
+  - prefabGoodItem: {fileID: 4504290041309493490, guid: e8cc7a9c426c13b439ee43b82ea4e00c, type: 3}
+  - prefabBadItem: {fileID: 2430109140992117271, guid: 73a3c4c67404acc428a8a6f13f7ecac5, type: 3}
+  - playerCharacter: {fileID: 6942277670912390610, guid: 2d5c00a3e6a0daa4a85bd93fb686e79e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
